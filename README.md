@@ -26,7 +26,11 @@ print(x)
 
 ## Output:
 [3. 1.]
-<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/8d92d2f2-24ac-4ccd-8943-f7c4273d988b" />
+<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/b06cc725-344f-41a1-9ce4-e8716e77be6a" />
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/9fd9cb5b-182c-4d2b-8bc5-e5a84f47184c" />
+
+
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
